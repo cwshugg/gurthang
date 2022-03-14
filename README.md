@@ -1,5 +1,7 @@
 This is **gurthang**, my web server fuzzing harness, composed of an `LD_PRELOAD` library and AFL++ custom mutator module. Turin Turambar wielded Gurthang, the sword called the "Iron of Death", and slayed Glaurung the dragon. Maybe, just maybe, AFL++ can wield this harness to slay some web servers.
 
+Gurthang was developed for my MS thesis of Computer Science at Virginia Tech.
+
 <img align="right" src="./docs/images/gurthang_light.png" width=385>
 
 # Files
