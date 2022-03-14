@@ -1,0 +1,9 @@
+GET /private/secure.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: python-requests/2.20.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Cookie: a_bad_cookie1=chocolate_chip
+
+

@@ -1,0 +1,6 @@
+POST /api/login HTTP/1.1
+Host: 127.0.0.1:8080
+Accept-Encoding: identity
+Content-Length: 64
+
+{"password": "thepassword", "username": "user0"}
